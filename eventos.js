@@ -12,5 +12,3 @@ btn.addEventListener('click', (e) => {
 function saludoDiv() {
     alert('Hola! Soy el div');
 }
-
-div.addEventListener('click', saludoDiv);
